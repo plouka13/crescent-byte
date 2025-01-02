@@ -1,5 +1,8 @@
 # CrescentByte Next.js App
-A gamified stock trading platform that makes it easy and exciting for beginners to start investing. With features like achievements, leaderboards, and levelling up, our app motivates users to learn about the markets and keep trading in a fun, engaging way.  
+A gamified stock trading platform that makes it easy and exciting for beginners to start investing. With features like achievements, leaderboards, and levelling up, our app motivates users to learn about the markets and keep trading in a fun, engaging way.
+
+[Crescent Byte App](https://main.d34lkhx9u8kgt9.amplifyapp.com/)
+
 ## Getting Started
 When setting up for the first time
 ```bash

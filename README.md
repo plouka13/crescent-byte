@@ -26,7 +26,7 @@ npm run lint
 
 ## Testing
 ```bash
-npm run lint
+npm run test
 ```
 
 ## Documentation
